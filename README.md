@@ -1,3 +1,9 @@
+# Interactive Treasure Box Game
+
+🎮 **Live Demo:** https://leoliao2025.github.io/treasure-game/
+
+---
+
 # Use Claude Code to Explore and Develop the project 
 ### Download the zip file of branch 'initial'
 https://github.com/uopsdod/claude_code_treasure_game/tree/initial
